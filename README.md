@@ -25,3 +25,6 @@ HEADLESS=False behave -f allure_behave.formatter:AllureFormatter -o allure-resul
 
 ### Run the below command to open the test report
 allure serve allure-results
+
+## Test Evidence - Allure Test Report
+The test results are shown in the Allure report screenshot at /evidence/Allure report.png. You can use this screenshot to see how the report looks like once tests ran successfully.
