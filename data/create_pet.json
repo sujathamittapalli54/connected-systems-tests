@@ -1,0 +1,18 @@
+{
+  "id": 7806,
+  "category": {
+    "id": 9906,
+    "name": "Famous category"
+  },
+  "name": "Famous pet",
+  "photoUrls": [
+    "https://famous.com"
+  ],
+  "tags": [
+    {
+      "id": 23,
+      "name": "famous-pet"
+    }
+  ],
+  "status": "available"
+}
